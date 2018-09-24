@@ -1,0 +1,20 @@
+ {
+    "folders":[ {
+            "path":"."
+        }
+    ], 
+    "settings": {
+        "git.ignoreMissingGitWarning":true, 
+        "editor.fontFamily":"Hack", 
+        "editor.minimap.enabled":false, 
+        "breadcrumbs.enabled":false, 
+        "editor.accessibilitySupport":"off", 
+        "terminal.integrated.shell.windows":"C:\\Windows\\System32\\cmd.exe", 
+        "workbench.sideBar.location":"left", 
+        "workbench.iconTheme":"vs-minimal", 
+        "python.linting.flake8Enabled":true, 
+        "python.formatting.provider":"yapf", 
+        "python.linting.flake8Args":["--max-line-length=248"], 
+        "python.linting.pylintEnabled":false
+    }
+}
